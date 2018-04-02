@@ -15,11 +15,11 @@ except:
 	print("Failed to build")
 
 try:
-	result = $(./02-dependecies)
+	result = $(./03-wrap)
 	if "<title>Example Domain</title>" in result :
 		print("Got: {output}".format(output=result))
 		print("Success!")
 	else:
 		print("Can't get expected output")
 except:
-	print("can't run 02-dependecies")
+	print("can't run 03-wrap")
