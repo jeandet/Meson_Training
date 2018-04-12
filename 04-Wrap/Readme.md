@@ -6,7 +6,7 @@ In this example **cpr** isn't installed on the machine, we will rely on Meson to
 
 ## Constraints 
 
-The produced executable shoud be called **04-wrap**, you must use WrapDB to get **cpr**.
+The produced executable should be called **04-wrap**, you must use WrapDB to get **cpr**.
 
 ## Expected output 
 
@@ -98,4 +98,4 @@ Success!
 
 ## Hints
 - Meson documentation about WrapDB: http://mesonbuild.com/Wrap-dependency-system-manual.html#toggling-between-distro-packages-and-embedded-source
-- You might be interresed in the command ```meson wrap install <package>```
+- You might be interested in the command ```meson wrap install <package>```
