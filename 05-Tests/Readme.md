@@ -7,12 +7,12 @@ The function is tested in 3 different ways:
     - a simple Python script in **python-test** folder
     - a basic C++ code with GTest API in **gtest-test** folder
 
-**Meson** proposes a way to declare and call tests with some features such as test parallelization 
+**Meson** proposes a way to declare and call tests with some features such as test parallelization, generating coverage, repeating tests...
 
 ## Exercise 
 
 You have to build a library from **simplelib.c**, build C and C++ tests and invoke each test from **Meson**.
-You know how to use **dependencies** and **WrapDB** now, so finding GTest shoudn't be an issue.
+You know how to use **dependencies** and **WrapDB** now, so finding GTest shouldn't be an issue.
 
 ## Expected output 
 

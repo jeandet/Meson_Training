@@ -23,19 +23,21 @@ For each exercise you will get an overall descrition, the rules and a testing sc
 
 [01-HelloWorld](01-HelloWorld/Readme.md)
 
-[02-Dependencies](02-Dependencies/Readme.md)
+[02-Library](02-Library/Readme.md)
 
-[03-Wrap](03-Wrap/Readme.md)
+[03-Dependencies](03-Dependencies/Readme.md)
 
-[04-Tests](04-Tests/Readme.md)
+[04-Wrap](04-Wrap/Readme.md)
 
-[05-Coverage](05-Coverage/Readme.md)
+[05-Tests](05-Tests/Readme.md)
 
-[06-Generators](06-Generators/Readme.md)
+[06-Coverage](06-Coverage/Readme.md)
 
-[07-Cross-Compilation](07-Cross-Compilation/Readme.md)
+[07-Generators](07-Generators/Readme.md)
 
 [08-Configuration-files](08-Configuration-files/Readme.md)
 
-[09-Disabler](09-Disabler/Readme.md)
+[09-Cross-Compilation](09-Cross-Compilation/Readme.md)
+
+[10-Disabler](10-Disabler/Readme.md)
 

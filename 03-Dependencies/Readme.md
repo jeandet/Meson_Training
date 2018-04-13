@@ -2,12 +2,12 @@
 
 ## Introduction
 This project contains an example from CURL project. It contains only one source file **simple.c** which download welcome page from http://example.com and print its content to stdout.
-To be able to build this project you need to link against libcurl and maybe add some compilations falgs. Hopefully Meson has a way to do that for you, it will find the library and produce the necessary flags for you.
+To be able to build this project you need to link against libcurl and maybe add some compilations flags. Hopefully Meson has a way to do that for you, it will find the library and produce the necessary flags for you.
 
 
-## Constraints 
+## Exercise 
 
-The produced executable shoud be called **03-dependencies**, you must not set any build option manually. The Meson file might only need 3 lines.
+build an executable called **03-dependencies**, you must not set any build flag manually. The Meson file might only need 3 lines.
 
 ## Expected output 
 

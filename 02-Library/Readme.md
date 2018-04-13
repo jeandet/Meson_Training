@@ -3,9 +3,9 @@
 ## Introduction
 This project contains a single source file **mylib.c** with a single function **myfunction** which prints ```Hello World from mylib``` and returns 0xABCD.
 
-## Constraints 
+## Exercise 
 
-You should build a dynamic library called **lib02-library.so**.
+Build a dynamic library called **lib02-library.so** from **mylib.c**.
 
 ## Expected output 
 

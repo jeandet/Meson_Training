@@ -2,11 +2,11 @@
 
 ## Introduction
 Hello World because we need an Hello World :).
-This exercice is pretty simple, it only contains one **C** source file. It is supposed to print ```Hello World!```.
+This exercise is pretty simple, it only contains one **C** source file. It is supposed to print ```Hello World!```.
 
-## Constraints 
+## Exercise 
 
-The executable name should be **01-hello-world**.
+Build an executable named **01-hello-world** from **main.c**.
 You might be able to fit the build description in 2 lines.
 
 ## Expected output 

@@ -4,9 +4,9 @@
 This project does exactly the same thing that previous one, but instead of using curl it uses [cpr](http://whoshuu.github.io/cpr/) a C++ wrapper to curl. 
 In this example **cpr** isn't installed on the machine, we will rely on Meson to automatically fetch **cpr** source code to build it with our example.
 
-## Constraints 
+## Exercise 
 
-The produced executable should be called **04-wrap**, you must use WrapDB to get **cpr**.
+Build an executable called **04-wrap**, you must use WrapDB to get **cpr**.
 
 ## Expected output 
 
